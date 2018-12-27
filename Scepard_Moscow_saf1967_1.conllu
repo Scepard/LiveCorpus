@@ -1,0 +1,906 @@
+# sent_id = 1
+# sent_id = 1
+# text = ﻿ # time_begin = 3:42
+1	﻿	﻿	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\r\n
+2	#	#	PUNCT	_	_	1	punct	_	_
+3	time_begin	time_begiн-лат	NOUN	_	_	1	nsubj	_	_
+4	=	=	SYM	_	_	3	nmod	_	_
+5	3	3	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	42	42	NUM	_	_	5	nummod	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 3
+# text = потом мы ходили
+1	потом	потом	ADV	_	Degree=Pos	3	advmod	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 5
+# text = за / макулатурой
+1	за	за	ADP	_	_	3	case	_	_
+2	/	/	PUNCT	_	_	3	punct	_	_
+3	макулатурой	макулатура	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 7
+# text = прям по квартирам раньше это было легко и свободно не было домофонов было прекрасно стучишься в первую попавшуюся квартиру / ну начинаешь с первой и обходишь весь дом
+1	прям	прям	PART	_	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	квартирам	квартира	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	1	nmod	_	_
+4	раньше	рано	ADV	_	Degree=Cmp	7	advmod	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	легко	легкий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	свободно	свободно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	conj	_	_
+10	не	не	PART	_	_	7	advmod	_	_
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+12	домофонов	домофон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	_
+13	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+14	прекрасно	прекрасно	ADV	_	Degree=Pos	7	advmod	_	_
+15	стучишься	стучаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	7	csubj	_	_
+16	в	в	ADP	_	_	19	case	_	_
+17	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+18	попавшуюся	попавшийся	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Long	15	conj	_	_
+19	квартиру	квартира	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+20	/	/	PUNCT	_	_	22	punct	_	_
+21	ну	ну	PART	_	_	22	parataxis	_	_
+22	начинаешь	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	parataxis	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	первой	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	obl	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	обходишь	обходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+27	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	28	det	_	_
+28	дом	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 9
+# text = народ готов был сдать всю макулатуру
+1	народ	народ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	готов	готовый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	сдать	сдать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+5	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	6	det	_	_
+6	макулатуру	макулатура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 11
+# text = у людей уже стояли пачками газеты старые книги перевязанные бичевкой
+1	у	у	ADP	_	_	2	case	_	_
+2	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+3	уже	уже	ADV	_	Degree=Pos	4	advmod	_	_
+4	стояли	стоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	пачками	пачка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	obl	_	_
+6	газеты	газета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	старые	старый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	книги	книга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+9	перевязанные	перевязать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+10	бичевкой	бичевка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 13
+# text = и вот это мы всё приносили и складывали в один "анг"
+1	и	и	CCONJ	_	_	6	cc	_	_
+2	вот	вот	PART	_	_	3	advmod	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+5	всё	весь	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	приносили	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	складывали	складывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+9	в	в	ADP	_	_	12	case	_	_
+10	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	12	nummod:gov	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	анг	анг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	12	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 15
+# text = один огромный ангар что ли его назвать / потом у нас его забирали на машине и взвешивали / там тоже было соревнование / какой класс больше сдаст макулатуры / ну конечно наш класс был лучший
+1	один	один	NUM	_	Case=Nom|Gender=Masc	3	nummod:gov	_	_
+2	огромный	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	ангар	ангар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	что	что	SCONJ	_	_	7	obj	_	_
+5	ли	ли	PART	_	_	4	advmod	_	_
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	_
+7	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	_
+8	/	/	PUNCT	_	_	13	punct	_	_
+9	потом	потом	ADV	_	Degree=Pos	13	advmod	_	_
+10	у	у	ADP	_	_	11	case	_	_
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	13	obl	_	_
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obj	_	_
+13	забирали	забирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	машине	машина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	взвешивали	взвешивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+18	/	/	PUNCT	_	_	21	punct	_	_
+19	там	там	ADV	_	Degree=Pos	21	advmod	_	_
+20	тоже	тоже	PART	_	_	21	advmod	_	_
+21	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	_
+22	соревнование	соревнование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
+23	/	/	PUNCT	_	_	27	punct	_	_
+24	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	25	det	_	_
+25	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+26	больше	больше	ADV	_	Degree=Cmp	27	advmod	_	_
+27	сдаст	сдать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	35	advcl	_	_
+28	макулатуры	макулатура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	_
+29	/	/	PUNCT	_	_	27	punct	_	_
+30	ну	ну	PART	_	_	35	parataxis	_	_
+31	конечно	конечно	ADV	_	Degree=Pos	35	obl	_	_
+32	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	33	det	_	_
+33	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	_
+34	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	cop	_	_
+35	лучший	лучший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	nsubj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 17
+# text = я старалась хахаха / я гоняла всех из класса за макулатурой / мы даже в типографию забрели и нам там тонны макулатуры накидали
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	старалась	стараться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	хахаха	хахах	NONLEX
+4	/	/	PUNCT	_	_	6	punct	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	гоняла	гонять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	appos	_	_
+7	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur	6	obj	_	_
+8	из	из	ADP	_	_	9	case	_	_
+9	класса	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+10	за	за	ADP	_	_	11	case	_	_
+11	макулатурой	макулатура	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+12	/	/	PUNCT	_	_	17	punct	_	_
+13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	17	nsubj	_	_
+14	даже	даже	PART	_	_	16	advmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	типографию	типография	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+17	забрели	забрести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+18	и	и	CCONJ	_	_	23	cc	_	_
+19	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	23	iobj	_	_
+20	там	там	ADV	_	Degree=Pos	23	advmod	_	_
+21	тонны	тонна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	_	_
+22	макулатуры	макулатура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	накидали	накидывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 19
+# text = мы изощрялись
+1	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	изощрялись	изощряться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 21
+# text = что еще у нас было в нашем детстве
+1	что	что	PRON	_	Case=Nom	5	nsubj	_	_
+2	еще	еще	ADV	_	Degree=Pos	1	obl	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	5	obl	_	_
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	нашем	наш	DET	_	Case=Loc|Gender=Neut|Number=Sing	8	det	_	_
+8	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 23
+# text = летом мы ездили в лагеря / правда это ко мне не относится я в лагере не была ни разу / мое лето было связано с деревней и бабушкой / бабушка у меня жила в деревне где были горы / лес / и там было классно можно было свободно разгуливать где хочешь / хочешь уходишь в лес / грибы ягоды собираешь ну в основном там малина росла / земляника / но за земляникой мы ходили / не только в лес там не столько в лесу она сколько на горе такие открытые / я даже не знаю как по-русски это назвать / это такой яйляу назывался вот так вот проходишь по ним наберешь с ведром полведра в одном месте полведра в другом месте и домой / когда мы ближайшие полянки свои собирали шли дальше по горам вверх-вниз как козочки гуляли / потом в лощинках там / росла черёмуха собирали черёмуху прокручивали её / делали варенье / хозяйственые / пока родители у нас на сено уезжали мы занимались так вот то ягодами / то заготовкой ягод грибов / то просто по хозяйству
+1	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	ездили	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	лагеря	лагерь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	правда	правда	ADV	_	Degree=Pos	12	parataxis	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	ко	к	ADP	_	_	10	case	_	_
+10	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	12	obl	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	12	nsubj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	лагере	лагерь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
+16	не	не	PART	_	_	19	advmod	_	_
+17	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+18	ни	ни	PART	_	Polarity=Neg	19	advmod	_	_
+19	разу	раз	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	12	obl	_	_
+20	/	/	PUNCT	_	_	24	punct	_	_
+21	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing	22	det	_	_
+22	лето	лето	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj:pass	_	_
+23	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	aux:pass	_	_
+24	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	conj	_	_
+25	с	с	ADP	_	_	26	case	_	_
+26	деревней	деревня	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	бабушкой	бабушка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	26	conj	_	_
+29	/	/	PUNCT	_	_	33	punct	_	_
+30	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	_
+31	у	у	ADP	_	_	32	case	_	_
+32	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	33	obl	_	_
+33	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+34	в	в	ADP	_	_	35	case	_	_
+35	деревне	деревня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	obl	_	_
+36	где	где	ADV	_	Degree=Pos	37	advmod	_	_
+37	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+38	горы	гора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	37	nsubj	_	_
+39	/	/	PUNCT	_	_	33	punct	_	_
+40	лес	лес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
+41	/	/	PUNCT	_	_	45	punct	_	_
+42	и	и	CCONJ	_	_	45	cc	_	_
+43	там	там	ADV	_	Degree=Pos	45	advmod	_	_
+44	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	45	aux:pass	_	_
+45	классно	классно	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	33	conj	_	_
+46	можно	можно	ADV	_	Degree=Pos	45	nsubj:pass	_	_
+47	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	45	aux:pass	_	_
+48	свободно	свободно	ADV	_	Degree=Pos	49	advmod	_	_
+49	разгуливать	разгуливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	45	csubj:pass	_	_
+50	где	где	ADV	_	Degree=Pos	53	advmod	_	_
+51	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	53	nsubj	_	_
+52	/	/	PUNCT	_	_	51	punct	_	_
+53	хочешь	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	49	advcl	_	_
+54	уходишь	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	53	xcomp	_	_
+55	в	в	ADP	_	_	56	case	_	_
+56	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	54	obl	_	_
+57	/	/	PUNCT	_	_	60	punct	_	_
+58	грибы	гриб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	60	nsubj	_	_
+59	ягоды	ягода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	_
+60	собираешь	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	53	conj	_	_
+61	ну	ну	PART	_	_	66	parataxis	_	_
+62	в	в	ADP	_	_	63	case	_	_
+63	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	66	obl	_	_
+64	там	там	ADV	_	Degree=Pos	66	advmod	_	_
+65	малина	малина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	66	nsubj	_	_
+66	росла	расти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	60	parataxis	_	_
+67	/	/	PUNCT	_	_	66	punct	_	_
+68	земляника	земляника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	66	obl	_	_
+69	/	/	PUNCT	_	_	74	punct	_	_
+70	но	но	CCONJ	_	_	74	cc	_	_
+71	за	за	ADP	_	_	72	case	_	_
+72	земляникой	земляника	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	74	obl	_	_
+73	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	74	nsubj	_	_
+74	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	68	conj	_	_
+75	/	/	PUNCT	_	_	86	punct	_	_
+76	не	не	PART	_	_	77	advmod	_	_
+77	только	только	PART	_	_	86	advmod	_	_
+78	в	в	ADP	_	_	79	case	_	_
+79	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	86	obl	_	_
+80	там	там	ADV	_	Degree=Pos	86	advmod	_	_
+81	не	не	PART	_	_	84	advmod	_	_
+82	столько	столько	ADV	_	Degree=Pos	84	mark	_	_
+83	в	в	ADP	_	_	84	case	_	_
+84	лесу	лес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	86	obl	_	_
+85	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	86	nsubj	_	_
+86	сколько	сколько	NUM	_	_	74	advmod	_	_
+87	на	на	ADP	_	_	88	case	_	_
+88	горе	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	86	obl	_	_
+89	такие	такой	DET	_	Case=Nom|Number=Plur	90	det	_	_
+90	открытые	открытый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	86	amod	_	_
+91	/	/	PUNCT	_	_	95	punct	_	_
+92	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	95	nsubj	_	_
+93	даже	даже	PART	_	_	95	advmod	_	_
+94	не	не	PART	_	_	95	advmod	_	_
+95	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	86	parataxis	_	_
+96	как	как	ADV	_	Degree=Pos	99	advmod	_	_
+97	по-русски	по-русски	ADV	_	Degree=Pos	99	advmod	_	_
+98	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	99	obj	_	_
+99	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	95	xcomp	_	_
+100	/	/	PUNCT	_	_	95	punct	_	_
+101	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	104	nsubj	_	_
+102	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	103	det	_	_
+103	яйляу	яйляу	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	104	iobj	_	_
+104	назывался	называться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	95	conj	_	_
+105	вот	вот	PART	_	_	106	advmod	_	_
+106	так	так	ADV	_	Degree=Pos	108	advmod	_	_
+107	вот	вот	PART	_	_	106	advmod	_	_
+108	проходишь	проходить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	104	xcomp	_	_
+109	по	по	ADP	_	_	110	case	_	_
+110	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	108	obl	_	_
+111	наберешь	набрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	108	xcomp	_	_
+112	с	с	ADP	_	_	113	case	_	_
+113	ведром	ведро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	111	obl	_	_
+114	пол	пол	NUM	_	_	115	nummod	_	SpaceAfter=No
+115	ведра	ведро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	111	obl	_	_
+116	в	в	ADP	_	_	118	case	_	_
+117	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	118	amod	_	_
+118	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	111	obl	_	_
+119	пол	пол	NUM	_	_	120	nummod	_	SpaceAfter=No
+120	ведра	ведро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	118	nmod	_	_
+121	в	в	ADP	_	_	123	case	_	_
+122	другом	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	123	amod	_	_
+123	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	111	obl	_	_
+124	и	и	CCONJ	_	_	125	cc	_	_
+125	домой	домой	ADV	_	Degree=Pos	111	advmod	_	_
+126	/	/	PUNCT	_	_	132	punct	_	_
+127	когда	когда	SCONJ	_	_	132	mark	_	_
+128	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	132	nsubj	_	_
+129	ближайшие	близкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	130	amod	_	_
+130	полянки	полянка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	132	nsubj	_	_
+131	свои	свой	DET	_	Case=Acc|Number=Plur	130	det	_	_
+132	собирали	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	125	advcl	_	_
+133	шли	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	132	xcomp	_	_
+134	дальше	далеко	ADV	_	Degree=Cmp	133	advmod	_	_
+135	по	по	ADP	_	_	136	case	_	_
+136	горам	гора	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	133	obl	_	_
+137	вверх	вверх	ADV	_	Degree=Pos	133	advmod	_	SpaceAfter=No
+138	-	-	PUNCT	_	_	139	punct	_	SpaceAfter=No
+139	вниз	вниз	ADV	_	Degree=Pos	137	fixed	_	_
+140	как	как	SCONJ	_	_	142	mark	_	_
+141	козочки	козочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	142	nsubj	_	_
+142	гуляли	гулять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	133	advcl	_	_
+143	/	/	PUNCT	_	_	151	punct	_	_
+144	потом	потом	ADV	_	Degree=Pos	151	advmod	_	_
+145	в	в	ADP	_	_	146	case	_	_
+146	лощинках	лощинка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	151	obl	_	_
+147	там	там	ADV	_	Degree=Pos	151	advmod	_	_
+148	/	/	PUNCT	_	_	149	punct	_	_
+149	росла	расти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	151	conj	_	_
+150	черёмуха	черёмуха	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	151	obj	_	_
+151	собирали	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	142	conj	_	_
+152	черёмуху	черёмуха	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	151	obj	_	_
+153	прокручивали	прокручивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	151	conj	_	_
+154	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	153	obj	_	_
+155	/	/	PUNCT	_	_	156	punct	_	_
+156	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	153	parataxis	_	_
+157	варенье	варенье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	156	obj	_	_
+158	/	/	PUNCT	_	_	159	punct	_	_
+159	хозяйственые	хозяйственый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	157	nmod	_	_
+160	/	/	PUNCT	_	_	167	punct	_	_
+161	пока	пока	ADV	_	Degree=Pos	167	advmod	_	_
+162	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	167	nsubj	_	_
+163	у	у	ADP	_	_	164	case	_	_
+164	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	167	obl	_	_
+165	на	на	ADP	_	_	166	case	_	_
+166	сено	сено	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	167	obl	_	_
+167	уезжали	уезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	159	conj	_	_
+168	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	169	nsubj	_	_
+169	занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	167	nsubj	_	_
+170	так	так	ADV	_	Degree=Pos	173	obl	_	_
+171	вот	вот	PART	_	_	170	advmod	_	_
+172	то	тот	SCONJ	_	_	170	fixed	_	_
+173	ягодами	ягода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	169	obl	_	_
+174	/	/	PUNCT	_	_	183	punct	_	_
+175	то	то	SCONJ	_	_	183	mark	_	_
+176	заготовкой	заготовка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	183	nmod	_	_
+177	ягод	ягода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	176	nmod	_	_
+178	грибов	гриб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	177	nmod	_	_
+179	/	/	PUNCT	_	_	183	punct	_	_
+180	то	то	SCONJ	_	_	183	mark	_	_
+181	просто	просто	PART	_	_	183	advmod	_	_
+182	по	по	ADP	_	_	183	case	_	_
+183	хозяйству	хозяйство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	170	advcl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 25
+# text = вечером когда родители возвращаются мы должны были приготовить для них ужин / ну какой ужин могут там школьники приготовить макароны нажаришь
+1	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+2	когда	когда	SCONJ	_	_	4	mark	_	_
+3	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	возвращаются	возвращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	_
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+6	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+7	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+8	приготовить	приготовить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	8	obl	_	_
+11	ужин	ужин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+12	/	/	PUNCT	_	_	16	punct	_	_
+13	ну	ну	PART	_	_	16	parataxis	_	_
+14	какой	какой	DET	_	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	ужин	ужин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	_
+16	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	obl	_	_
+17	там	там	ADV	_	Degree=Pos	16	advmod	_	_
+18	школьники	школьник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+19	приготовить	приготовить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+20	макароны	макароны	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	obj	_	_
+21	нажаришь	нажарить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 27
+# text = с луком
+1	с	с	ADP	_	_	2	case	_	_
+2	луком	лук	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 29
+# text = класс
+1	класс	класс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 31
+# text = и с томатной пастой соусом краснодарским / супер / вот это ужин хихи
+1	и	и	CCONJ	_	_	4	cc	_	_
+2	с	с	ADP	_	_	4	case	_	_
+3	томатной	томатный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	пастой	паста	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	obl	_	_
+5	соусом	соус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+6	краснодарским	краснодарский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	супер	супер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	_
+9	/	/	PUNCT	_	_	8	punct	_	_
+10	вот	вот	PART	_	_	13	advmod	_	_
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	cop	_	_
+12	ужин	ужин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	хихи	хихи	NONLEX
+
+saf@
+
+# sent_id = 33
+# text = а потом баня всеобщая / вечером
+1	а	а	CCONJ	_	_	3	cc	_	_
+2	потом	потом	ADV	_	Degree=Pos	3	obl	_	_
+3	баня	баня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	всеобщая	всеобщий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+5	/	/	PUNCT	_	_	6	punct	_	_
+6	вечером	вечером	ADV	_	Degree=Pos	4	obl	_	_
+
+saf@
+
+# sent_id = 35
+# text = банька такая она была особенная не как сейчас а чё...
+1	банька	банька	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	особенная	особенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+6	не	не	PART	_	_	8	advmod	_	_
+7	как	как	SCONJ	_	_	8	mark	_	_
+8	сейчас	сейчас	ADV	_	Degree=Pos	5	advmod	_	_
+9	а	а	CCONJ	_	_	10	cc	_	_
+10	чё	че	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 37
+# text = топилась она по чёрному
+1	топилась	топить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	чёрному	чёрный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	1	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 39
+# text = если кто-то еще помнит или знает это заходишь и она такая маленькая и низенькая чтоб быстрее протопиться / стены везде и потолок черные покрытые сажей
+1	если	если	SCONJ	_	_	4	mark	_	_
+2	кто-то	кто-то	PRON	_	Case=Nom	4	nsubj	_	_
+3	еще	еще	ADV	_	Degree=Pos	2	obl	_	_
+4	помнит	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+5	или	или	CCONJ	_	_	6	cc	_	_
+6	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+8	заходишь	заходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+9	и	и	PART	_	_	10	advmod	_	_
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+11	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	12	det	_	_
+12	маленькая	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	obl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	низенькая	низенький	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
+15	чтоб	чтобы	SCONJ	_	Mood=Cnd	17	mark	_	_
+16	быстрее	быстро	ADV	_	Degree=Cmp	17	advmod	_	_
+17	протопиться	топиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	advcl	_	_
+18	/	/	PUNCT	_	_	17	punct	_	_
+19	стены	стена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	_
+20	везде	везде	ADV	_	Degree=Pos	24	advmod	_	_
+21	и	и	PART	_	_	22	advmod	_	_
+22	потолок	потолок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+23	черные	черный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+24	покрытые	покрыть	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+25	сажей	сажа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	24	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 41
+# text = и такая печка каменка / просто кам...
+1	и	и	CCONJ	_	_	7	cc	_	_
+2	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
+3	печка	печка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+4	каменка	каменка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	/	/	PUNCT	_	_	7	punct	_	_
+6	просто	просто	PART	_	_	7	advmod	_	_
+7	кам.	камень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj:pass	_	_
+8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 43
+# text = камни завалены наверх так свалены / кучкой
+1	камни	камень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj:pass	_	_
+2	завалены	завалить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	наверх	наверх	ADV	_	Degree=Pos	2	advmod	_	_
+4	так	так	ADV	_	Degree=Pos	5	advmod	_	_
+5	свалены	свалить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	_
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	кучкой	кучка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 45
+# text = ааа внутри печка
+1	ааа	аа	NONLEX
+2	внутри	внутри	ADV	_	Degree=Pos	3	advmod	_	_
+3	печка	печка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 47
+# text = печку протапливали камни нагревались вот тебе и баня / там рядом в котле вода грелась / ну смысл в...
+1	печку	печка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+2	протапливали	протапливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+3	камни	камень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	нагревались	нагреваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	вот	вот	PART	_	_	6	advmod	_	_
+6	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	4	iobj	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	баня	баня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+9	/	/	PUNCT	_	_	15	punct	_	_
+10	там	там	ADV	_	Degree=Pos	15	advmod	_	_
+11	рядом	рядом	ADV	_	Degree=Pos	15	advmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	котле	котел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+14	вода	вода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	грелась	греться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+16	/	/	PUNCT	_	_	19	punct	_	_
+17	ну	ну	PART	_	_	18	discourse	_	_
+18	смысл	смысл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+19	в	в	ADP	_	_	15	case	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 49
+# text = тот что не было трубы и вся эта копоть весь этот дым в бане и был / кто первый заходил тому конечно самый сильный человек заходил потому что было жарко и всё-таки / дымом тянуло вот такая у нас была баня
+1	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	что	что	PRON	_	Case=Nom	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	трубы	труба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+6	и	и	CCONJ	_	_	12	cc	_	_
+7	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	9	det	_	_
+8	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	9	det	_	_
+9	копоть	копоть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+10	весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
+11	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
+12	дым	дым	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	бане	баня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+15	и	и	CCONJ	_	_	20	cc	_	_
+16	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
+17	/	/	PUNCT	_	_	20	punct	_	_
+18	кто	кто	PRON	_	Case=Nom	20	nsubj	_	_
+19	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+20	заходил	заходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+21	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	iobj	_	_
+22	конечно	конечно	ADV	_	Degree=Pos	24	obl	_	_
+23	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	сильный	сильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+26	заходил	заходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+27	потому	потому	ADV	_	Degree=Pos	30	mark	_	_
+28	что	что	SCONJ	_	_	27	fixed	_	_
+29	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	cop	_	_
+30	жарко	жаркий	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	26	advcl	_	_
+31	и	и	CCONJ	_	_	35	cc	_	_
+32	всё-таки	все-таки	PART	_	_	35	advmod	_	_
+33	/	/	PUNCT	_	_	34	punct	_	_
+34	дымом	дым	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	35	obl	_	_
+35	тянуло	тянуть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	conj	_	_
+36	вот	вот	PART	_	_	37	advmod	_	_
+37	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	40	det	_	_
+38	у	у	ADP	_	_	39	case	_	_
+39	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	40	obl	_	_
+40	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	xcomp	_	_
+41	баня	баня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	nsubj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 51
+# text = а когда / родители были на сенова...
+1	а	а	CCONJ	_	_	7	cc	_	_
+2	когда	когда	SCONJ	_	_	7	advmod	_	_
+3	/	/	PUNCT	_	_	4	punct	_	_
+4	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	сенова	сеновал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 53
+# text = на сенокосе / мы еще чем занимались когда были маленькие / мы добывали
+1	на	на	ADP	_	_	2	case	_	_
+2	сенокосе	сенокос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+3	/	/	PUNCT	_	_	2	punct	_	_
+4	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	7	nsubj	_	_
+5	еще	еще	ADV	_	Degree=Pos	6	obl	_	_
+6	чем	что	PRON	_	Case=Ins	7	obl	_	_
+7	занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2	parataxis	_	_
+8	когда	когда	SCONJ	_	_	13	mark	_	_
+9	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+10	маленькие	маленький	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+11	/	/	PUNCT	_	_	13	punct	_	_
+12	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	13	nsubj	_	_
+13	добывали	добывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 55
+# text = глину / у нас ручеёк там протекал / нароешь глину сделаешь чашки тарелки
+1	глину	глина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	7	obl	_	_
+5	ручеёк	ручеёк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	там	там	ADV	_	Degree=Pos	7	advmod	_	_
+7	протекал	протекать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	/	/	PUNCT	_	_	9	punct	_	_
+9	нароешь	нарыть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	_
+10	глину	глина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+11	сделаешь	делать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	9	xcomp	_	_
+12	чашки	чашка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
+13	тарелки	тарелка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 57
+# text = вот это всё / в печку / обжигали мы горшочки свои глиняные / а потом разрисовывали если были краски / да либо так оставляли и просто играли в куклы
+1	вот	вот	PART	_	_	2	advmod	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	obj	_	_
+3	всё	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+4	/	/	PUNCT	_	_	6	punct	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	печку	печка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+7	/	/	PUNCT	_	_	8	punct	_	_
+8	обжигали	обжигать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	8	nsubj	_	_
+10	горшочки	горшочек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
+11	свои	свой	DET	_	Case=Acc|Number=Plur	12	det	_	_
+12	глиняные	глиняный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+13	/	/	PUNCT	_	_	16	punct	_	_
+14	а	а	CCONJ	_	_	16	cc	_	_
+15	потом	потом	ADV	_	Degree=Pos	16	advmod	_	_
+16	разрисовывали	разрисовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+17	если	если	SCONJ	_	_	18	mark	_	_
+18	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+19	краски	краска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+20	/	/	PUNCT	_	_	24	punct	_	_
+21	да	да	PART	_	_	24	parataxis	_	_
+22	либо	либо	CCONJ	_	_	24	cc	_	_
+23	так	так	ADV	_	Degree=Pos	24	advmod	_	_
+24	оставляли	оставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	просто	просто	PART	_	_	27	advmod	_	_
+27	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	куклы	кукла	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	27	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 59
+# text = такие были забавы в лес...
+1	такие	такой	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	забавы	забавь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 61
+# text = в деревне
+1	в	в	ADP	_	_	2	case	_	_
+2	деревне	деревня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 63
+# text = а нет еще не все / вечером мы ходили за коровами хахаха
+1	а	а	CCONJ	_	_	9	cc	_	_
+2	нет	нет	PART	_	_	3	advmod	_	_
+3	еще	еще	ADV	_	Degree=Pos	5	obl	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur	9	obl	_	_
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	_
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	9	nsubj	_	_
+9	ходили	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	за	за	ADP	_	_	11	case	_	_
+11	коровами	корова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	obl	_	_
+12	хахаха	хахах	NONLEX 
+
+saf@
+
+# sent_id = 65
+# text = попробуй найди эту корову
+1	попробуй	пробовать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	найди	найти	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+3	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+4	корову	корова	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 67
+# text = эти коровы были
+1	эти	этот	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	коровы	корова	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 69
+# text = ну они на характер так же как люди на характер различаются бабушкина была спокойная / размеренным шагом приходила домой приносила полное вымя молока а другая корова которая досталась нам / со снохой была своеобразная / брыкучая и с характером / она проносилась мимо дома и убегала в поля и приходилось нам бегать за ней вот тебе и тренировка вечерняя
+1	ну	ну	PART	_	_	11	parataxis	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	11	nsubj	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+5	так	так	ADV	_	Degree=Pos	8	cc	_	_
+6	же	же	PART	_	_	5	fixed	_	_
+7	как	как	SCONJ	_	_	5	fixed	_	_
+8	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
+11	различаются	различаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	advcl	_	_
+12	бабушкина	бабушкин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+14	спокойная	спокойный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+15	/	/	PUNCT	_	_	18	punct	_	_
+16	размеренным	размеренный	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	шагом	шаг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	obl	_	_
+18	приходила	приходить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+19	домой	домой	ADV	_	Degree=Pos	20	advmod	_	_
+20	приносила	приносить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+21	полное	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	вымя	вымя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	молока	молоко	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	а	а	CCONJ	_	_	42	cc	_	_
+25	другая	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	корова	корова	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	42	nsubj	_	_
+27	которая	который	PRON	_	Case=Nom	28	nsubj	_	_
+28	досталась	достаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	42	advcl	_	_
+29	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	28	iobj	_	_
+30	/	/	PUNCT	_	_	28	punct	_	_
+31	со	с	ADP	_	_	32	case	_	_
+32	снохой	сноха	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	obl	_	_
+33	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	42	cop	_	_
+34	своеобразная	своеобразный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	acl	_	_
+35	/	/	PUNCT	_	_	36	punct	_	_
+36	брыкучая	брыкучий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	34	conj	_	_
+37	и	и	CCONJ	_	_	39	cc	_	_
+38	с	с	ADP	_	_	39	case	_	_
+39	характером	характер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	34	conj	_	_
+40	/	/	PUNCT	_	_	39	punct	_	_
+41	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	42	nsubj	_	_
+42	проносилась	проноситься	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	conj	_	_
+43	мимо	мимо	ADP	_	_	44	case	_	_
+44	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	obl	_	_
+45	и	и	CCONJ	_	_	46	cc	_	_
+46	убегала	убегать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	42	conj	_	_
+47	в	в	ADP	_	_	48	case	_	_
+48	поля	поле	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	46	obl	_	_
+49	и	и	CCONJ	_	_	50	cc	_	_
+50	приходилось	приходиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	42	conj	_	_
+51	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	50	iobj	_	_
+52	бегать	бегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	50	csubj	_	_
+53	за	за	ADP	_	_	54	case	_	_
+54	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	52	obl	_	_
+55	вот	вот	PART	_	_	56	advmod	_	_
+56	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	52	iobj	_	_
+57	и	и	PART	_	_	58	advmod	_	_
+58	тренировка	тренировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	52	obl	_	_
+59	вечерняя	вечерний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	58	amod	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 71
+# text = хитрую корову так просто не поймаешь / надо заходить от неё сбоку / и если она у те...
+1	хитрую	хитрый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	корову	корова	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+3	так	так	ADV	_	Degree=Pos	6	advmod	_	_
+4	просто	просто	PART	_	_	6	advmod	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	поймаешь	поймать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	_
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	надо	надо	ADV	_	Degree=Pos	0	root	_	_
+9	заходить	заходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	от	от	ADP	_	_	12	case	_	_
+11	неё	она	DET	_	_	12	det	_	_
+12	сбоку	сбоку	ADV	_	Degree=Pos	0	root	_	_
+13	/	/	PUNCT	_	_	18	punct	_	_
+14	и	и	CCONJ	_	_	18	cc	_	_
+15	если	если	SCONJ	_	_	18	mark	_	_
+16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	nsubj	_	_
+17	у	у	ADP	_	_	18	case	_	_
+18	те	тот	DET	_	Case=Nom|Number=Plur	9	det	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	18	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 73
+# text = если она теб...
+1	если	если	SCONJ	_	_	3	mark	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+3	теб	ты	PRON	_	Case=Acc|Number=Sing|Person=2	25	obj	_	_
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 75
+# text = на тебя не скосит глаз и не увидит то ты как-то её можешь напугать и повернуть в другую сторону а если она заранее тебя увидела как делала это наша сальтербаш то / всё / будешь бегать по полю
+1	на	на	ADP	_	_	2	case	_	_
+2	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	4	obl	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	скосит	косить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+5	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	увидит	увидать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	advcl	_	_
+9	то	то	SCONJ	_	_	13	mark	_	_
+10	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	13	nsubj	_	_
+11	как-то	как-то	ADV	_	Degree=Pos	13	advmod	_	_
+12	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obj	_	_
+13	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	напугать	напугать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	36	advcl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	повернуть	повернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	conj	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	другую	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+20	а	а	CCONJ	_	_	27	cc	_	_
+21	если	если	SCONJ	_	_	25	mark	_	_
+22	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	25	nsubj	_	_
+23	заранее	заранее	ADV	_	Degree=Pos	25	advmod	_	_
+24	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	25	obj	_	_
+25	увидела	видеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	_	_
+26	как	как	SCONJ	_	_	27	mark	_	_
+27	делала	делать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	36	advcl	_	_
+28	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+29	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing	30	det	_	_
+30	сальтербаш	сальтербаш	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	27	nsubj	_	_
+31	то	то	SCONJ	_	_	36	mark	_	_
+32	/	/	PUNCT	_	_	31	punct	_	_
+33	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	nsubj	_	_
+34	/	/	PUNCT	_	_	33	punct	_	_
+35	будешь	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	36	aux	_	_
+36	бегать	бегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+37	по	по	ADP	_	_	38	case	_	_
+38	полю	поле	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	36	obl	_	SpacesAfter=\r\n\r\n
+
+saf@
+
+# sent_id = 77
+# text = вот такие у нас были веселья
+1	вот	вот	PART	_	_	2	advmod	_	_
+2	такие	такой	DET	_	Case=Nom|Number=Plur	5	det	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	5	obl	_	_
+5	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	веселья	весело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+
